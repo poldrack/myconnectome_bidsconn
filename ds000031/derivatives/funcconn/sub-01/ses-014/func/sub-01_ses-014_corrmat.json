@@ -1,0 +1,10 @@
+{
+    "NodeLabelFile": "sub-01_ses-014_measure-correlation_nodelabels.tsv",
+    "ConnectivityMeasure": "Product-moment correlation",
+    "Sources": [
+        "bids:funcconn/sub-01/ses-014/func/sub-01_ses-014_corrmat.tsv"
+    ],
+    "Description": "resting fMRI correlation matrix",
+    "Symmetric": "True",
+    "MatrixType": "Full"
+}

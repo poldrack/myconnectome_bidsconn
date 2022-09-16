@@ -1,0 +1,7 @@
+{
+    "SourceAtlases": {
+        "russome-left": "bids:atlas-russome/atlas-russome_hemis-left_dseg.gii",
+        "russome-right": "bids:atlas-russome/atlas-russome_hemis-right_dseg.gii",
+        "aseg": "bids:atlas-aseg/atlas-aseg_dseg.nii.gz"
+    }
+}
