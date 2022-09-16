@@ -32,3 +32,6 @@ ds000031
                     └── sub-01_ses-014_timeseries.tsv
 ```
 
+The atlases are currently placed at the same level as other derivatives, and only contain image files that represent the target atlases.  Final structure/placement of these directories is pending the new BIDS Atlas BEP.
+
+The `funcconn` pipeline is the primary pipeline of interest for the connectivity derivatives.  The `parcellation` workflow is included simply to provide a source datafile for the connectivity derivatives.
