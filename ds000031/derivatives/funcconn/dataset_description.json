@@ -1,0 +1,14 @@
+{
+  "Name": "MyConnectome connectivity derivatives",
+  "BIDSVersion": "1.7.1",
+  "DatasetType": "derivative",
+  "Authors": [
+    "Russ Poldrack"
+  ],
+  "GeneratedBy": [
+    {
+      "Name": "Manual",
+      "Description": "Trying out BEP17"
+    }
+  ]
+}
