@@ -10,5 +10,8 @@
       "Name": "Manual",
       "Description": "Trying out BEP17"
     }
-  ]
+  ],
+  "DatasetLinks": {
+    "rois": "../roi-extraction"
+  }
 }

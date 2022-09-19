@@ -1,7 +1,7 @@
 {
     "SourceAtlases": {
-        "russome-left": "bids::sub-01/anat/sub-01_hemi-L_dseg.label.gii",
-        "russome-right": "bids::sub-01/anat/sub-01_hemi-R_dseg.label.gii",
-        "aseg": "bids::sub-01/anat/sub-01_desc-aparcaseg_dseg.nii.gz"
+        "russome-left": "bids:rois:sub-01/anat/sub-01_hemi-L_dseg.label.gii",
+        "russome-right": "bids:rois:sub-01/anat/sub-01_hemi-R_dseg.label.gii",
+        "aseg": "bids:rois:sub-01/anat/sub-01_desc-aparcaseg_dseg.nii.gz"
     }
 }

@@ -2,7 +2,7 @@
     "NodeLabelFile": "bids::sub-01/ses-014/func/sub-01_ses-014_nodelabels.tsv",
     "ConnectivityMeasure": "Product-moment correlation",
     "Sources": [
-        "bids::sub-01/ses-014/func/sub-01_ses-014_timeseries.tsv"
+        "bids:rois:sub-01/ses-014/func/sub-01_ses-014_timeseries.tsv"
     ],
     "Description": "resting fMRI correlation matrix",
     "Symmetric": "True",
