@@ -1,5 +1,5 @@
 {
-  "Name": "MyConnectome connectivity derivatives",
+  "Name": "MyConnectome ROI segmentations and time series",
   "BIDSVersion": "1.7.1",
   "DatasetType": "derivative",
   "Authors": [
@@ -10,8 +10,5 @@
       "Name": "Manual",
       "Description": "Trying out BEP17"
     }
-  ],
-  "DatasetLinks": {
-    "rois": "../roi-extraction"
-  }
+  ]
 }
